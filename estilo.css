@@ -29,7 +29,9 @@ header {
 }
 
 nav {
-    border: .1rem solid orangered;
+    /* border: .1rem solid orangered; */
+    width: 8rem;
+    background-color: #fff;
     padding: .5rem;
 }
 main{
